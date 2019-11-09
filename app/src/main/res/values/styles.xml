@@ -1,0 +1,42 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Base.Theme.MaterialComponents.Bridge">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+
+        <item name="windowNoTitle">true</item>
+        <item name="windowActionBar">false</item>
+
+        <item name="android:textSize">@dimen/textBody</item>
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+    <style name="Theme.MaterialComponents.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+    </style>
+
+    <style name="TransparentToobar" parent="ThemeOverlay.MaterialComponents.Dark.ActionBar">
+        <item name="android:windowActionBarOverlay">true</item>
+        <item name="windowActionBarOverlay">true</item>
+    </style>
+
+    <style name="CardView.MovieCatalogTopic">
+        <item name="android:paddingStart">@dimen/heavyPadding</item>
+        <item name="android:paddingEnd">@dimen/mediumPadding</item>
+        <item name="android:paddingBottom">@dimen/mediumPadding</item>
+    </style>
+
+    <style name="CardView.MovieCatalogTopic.Title">
+        <item name="android:paddingTop">@dimen/mediumPadding</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+</resources>

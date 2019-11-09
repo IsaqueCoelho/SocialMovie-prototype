@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SimpleMovieApp</string>
+    <string name="msg_imageview_movie_banner">Movie Banner</string>
+    <string name="msg_imageview_movie_poster_image">Movie Poster</string>
+    <string name="msg_form_email">E-mail</string>
+    <string name="msg_form_password">Senha</string>
+    <string name="action_signin">Entrar</string>
+    <string name="msg_imageview_content_description">App Logo</string>
+    <string name="msg_form_invalid">email e/ou senha incorretos</string>
+</resources>

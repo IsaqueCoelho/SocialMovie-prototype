@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Dimens Text -->
+    <dimen name="textBody">16sp</dimen>
+
+    <!--Dimens Margin-->
+    <dimen name="imageviewSplashScreenMargin">70dp</dimen>
+    <dimen name="heavyMargin2">32dp</dimen>
+    <dimen name="heavyMargin">16dp</dimen>
+    <dimen name="mediumMargin">8dp</dimen>
+    <dimen name="softMargin">4dp</dimen>
+
+    <!--Dimens Padding-->
+    <dimen name="heavyPadding">16dp</dimen>
+    <dimen name="mediumPadding">8dp</dimen>
+
+</resources>
